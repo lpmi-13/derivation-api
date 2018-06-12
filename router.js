@@ -1,4 +1,5 @@
 const Word = require('./models/word');
+import word_keys from './keys';
 
 module.exports = function(app) {
   app.get('/', function(req, res) {
@@ -11,4 +12,10 @@ module.exports = function(app) {
       }
     });
   });
+
+  app.get('/list', function(req, res) {
+    res.setHeader('Content-Type', 'application/json');
+    res.send(word_keys);
+  });
+
 }
