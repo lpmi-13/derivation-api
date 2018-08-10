@@ -41,6 +41,6 @@ currently live at https://micromaterials.org/derivation-api
 
 The following is the database source, and please cite this as the database source if you are using this code.
 
-Habash, N., & Dorr, B. (2003). [A categorial variation database for English](http://www.anthology.aclweb.org/N/N03/N03-1013.pdf). In Proceedings of the 2003 Conference of the North American Chapter of the Association for Computational Linguistics (pp. 17-23). 
+Habash, N., & Dorr, B. (2003). [*A categorial variation database for English*](http://www.anthology.aclweb.org/N/N03/N03-1013.pdf). In Proceedings of the 2003 Conference of the North American Chapter of the Association for Computational Linguistics (pp. 17-23). 
 
 the database is provided for research purposes only; and commercial use must be discussed with [University of Maryland office of technology commercialization](http://www.otc.umd.edu/).
