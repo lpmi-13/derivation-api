@@ -12,7 +12,7 @@ const router = require('./router');
 
 app.use(morgan('combined'));
 app.use(cors());
-app.use(bodyParser.json({ type: '*/*'}));
+app.use(bodyParser.json({ type: '*/*' }));
 router(app);
 
 const port = process.env.PORT || 3090;
